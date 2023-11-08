@@ -1,0 +1,12 @@
+player: heads || computer: heads
+player: heads || computer: heads
+player: tails || computer: tails
+player: tails || computer: heads
+player: tails || computer: heads
+player: heads || computer: heads
+player: tails || computer: heads
+player: heads || computer: tails
+player: tails || computer: heads
+player: tails || computer: heads
+player: heads || computer: heads
+player: tails || computer: tails
